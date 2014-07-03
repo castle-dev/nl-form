@@ -238,7 +238,6 @@ input:focus::-ms-input-placeholder {
 	float: left;
 	padding: 0 0.7em;
 	margin: 0 0.8em 0 0;
-	background: #69B1A9;
 }
 
 .no-touch .nl-form .nl-submit:hover,
