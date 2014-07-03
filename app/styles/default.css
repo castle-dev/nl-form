@@ -21,8 +21,8 @@ body, html { font-size: 100%; padding: 0; margin: 0;}
 
 body {
 	font-family: 'Lato', Calibri, Arial, sans-serif;
-	color: #ffe8e7;
-	background: #E96D65;
+	color: #f9f9f9;
+	background: #2c3e50;
 	font-weight: 300;
 	overflow-x: hidden;
 }
@@ -34,7 +34,7 @@ a {
 
 a:hover,
 a:active {
-	color: #333;
+	color: #ebebec;
 }
 
 /* Header Style */
